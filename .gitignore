@@ -2,9 +2,10 @@
 *
 */
 
-#unignore .cpp and .h, this file, README
+#unignore .cpp and .h, this file, README .py
 !*.cpp
 !*.h
 !*.md
 !.gitignore
+!*.py
 
